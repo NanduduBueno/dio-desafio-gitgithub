@@ -1,2 +1,2 @@
-# dio-desafio-gitgithub
-Dio-Desafio de Git/Github
+#Dio-Desafio de Git/Github
+Desafio de criar meu próprio repositório
