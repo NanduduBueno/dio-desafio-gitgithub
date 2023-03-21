@@ -1,0 +1,5 @@
+git clone xxx(Copiar da nuvem)
+git add . ou -a (Adicionar todos os arquivos)
+git status (Situação da pasta)
+git commit -m"xxx"(Adicionar um commit)(-m Adicionar mensagem)
+git push origin main(Enviar os commits locais para a nuvem)
